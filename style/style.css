@@ -574,7 +574,10 @@ img {
 }
 
 .upper {
+  margin: 0 auto;
   margin-top: -65px;
+  width: 320px;
+  margin-bottom: 41px;
 }
 
 .numberForm {
@@ -900,7 +903,7 @@ img {
 }
 
 .prLisWshad {
-  height: 305px;
+  height: 375px;
   margin-top: -15px;
 }
 
