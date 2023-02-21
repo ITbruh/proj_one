@@ -973,3 +973,16 @@ img {
   color: #FFFFFF;
   margin-right: 7px;
 }
+
+
+.processChecked, .processChecked2 {
+  display: none;
+}
+
+.processGood {
+  display: block;
+}
+
+.processnone {
+  display: none;
+}
